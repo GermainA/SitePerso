@@ -1,0 +1,15 @@
+//base imports
+@import "variables/fonts";
+@import "helpers/mixins";
+
+// components imports
+@import "carousel";
+@import "header";
+@import "login";
+@import "content";
+@import "footer";
+@import "modal";
+@import "table";
+
+//layout imports
+@import "layout";

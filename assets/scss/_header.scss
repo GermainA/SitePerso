@@ -1,0 +1,17 @@
+body {
+    
+    .logo{margin-top: 8px}
+
+    .title{
+        font-size: 4em;
+        font-family: $font-title;
+        margin: auto;
+        margin-top: 15px;
+
+
+    }
+    .title:hover{
+        text-decoration: none;
+        color: black;
+    }
+}
